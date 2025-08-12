@@ -7,7 +7,7 @@ Date:2025-08-12
 ## Project overview
 
 This repository contains my solutions to all Java exercises from the **Digital Nurture 4.0 — CTS** course/module. Each exercise is implemented and tested by me individually.
-The goal of these exercises was to practice Java fundamentals, object-oriented programming, and common algorithmic patterns git plsql and microservices.
+The goal of these exercises was to practice Java fundamentals,sprin,springboot,Junit testing,react, object-oriented programming, and common algorithmic patterns git plsql and microservices.
 
 ## Notes on correctness & testing
 I implemented and manually tested all exercises. Where appropriate, small input/output samples and basic unit tests are included in the exercise folders.
